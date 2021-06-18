@@ -1,11 +1,11 @@
-1. Prepare five 1 ¡Á 10 -5 M coumarin-138 solutions in solvents: cyclohexane, dioxane, acetonitrile, ethyl alcohol and ethylene glycol. Such dilute solutions can be prepared via dilution from 1 ¡Á 10 -4 M stock solutions in respective solvents. Here solutions in different solvents are shown on a solvent selection bar.
+1. Prepare five 1 × 10 <sup>-5</sup> M coumarin-138 solutions in solvents: cyclohexane, dioxane, acetonitrile, ethyl alcohol and ethylene glycol. Such dilute solutions can be prepared via dilution from 1 × 10 <sup>-4</sup> M stock solutions in respective solvents. Here solutions in different solvents are shown on a solvent selection bar.
 2. The absorption measurements with all the solutions are carried out one after another as follows.
 3. To take a particular solution, click on the appropriate solvent on the solvent selection bar and then click on the volumetric flask containing the solution.
-4. Click on the quartz cuvette (path length, 1 cm ¡Á1 cm) to take it to the instrument table.
+4. Click on the quartz cuvette (path length, 1 cm ×1 cm)) to take it to the instrument table.
 5. Click on the glass Pasteur pipette to collect about 3 mL of the experimental solution which will be transferred into the quartz cuvette.
 6. Click on the pipette to draw the solution into it.
 7. Click on the pipette to take it out of the volumetric flask.
-8. Click on the pipette again to transfer the solution into the cuvette. To start the absorption spectral scan, click on the pop-up ¡°Start Absorption Measurement¡±.
+8. Click on the pipette again to transfer the solution into the cuvette. To start the absorption spectral scan, click on the pop-up "Start Absorption Measurement".
 9. Turn on the spectrophotometer clicking on the power button. In real operation, it takes approx. 30 min for initialization of the instrument.
 10. Open the lid of the sample chamber of the spectrophotometer by clicking on the lid for placing the sample in the cell-holder. Click on the cuvette to place it in the sample holder. One has to use pure solvent as the sample blank or reference in this measurement. Here a double beam spectrophotometer is shown.
 11. Close the lid of the sample chamber by clicking on it.
