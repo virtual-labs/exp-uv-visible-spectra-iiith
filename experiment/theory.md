@@ -15,7 +15,7 @@ The solvent dependent spectral shifts that originate from the interaction betwee
 
 Figure 2: Molecular structure of coumarin138.
 
-Table 1. Solvent properties and maximum absorbances and corresponding absorption wavelengths (λmax) of coumarin138.
+Table 1. Solvent properties and maximum absorbances and corresponding absorption wavelengths (λ<sub>max</sub>) of coumarin138.
 
 |Solvent|Refractive Index (n)|Dielectric Constant (D)|∆ f|Abs at λ<sub>max</sub>|λ<sub>max</sub>(nm)|
 |-------|--------------------|-----------------------|---|----------------------|-------------------|
