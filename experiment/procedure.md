@@ -1,7 +1,7 @@
-1. Prepare five 1 * 10 <sup>-5</sup> M coumarin-138 solutions in solvents: cyclohexane, dioxane, acetonitrile, ethyl alcohol and ethylene glycol. Such dilute solutions can be prepared via dilution from 1 * 10 <sup>-4</sup> M stock solutions in respective solvents. Here solutions in different solvents are shown on a solvent selection bar.  
+1. Prepare five 1 x 10 <sup>-5</sup> M coumarin-138 solutions in solvents: cyclohexane, dioxane, acetonitrile, ethyl alcohol and ethylene glycol. Such dilute solutions can be prepared via dilution from 1 x 10 <sup>-4</sup> M stock solutions in respective solvents. Here solutions in different solvents are shown on a solvent selection bar.  
 2. The absorption measurements with all the solutions are carried out one after another as follows.    
 3. To take a particular solution, click on the appropriate solvent on the solvent selection bar and then click on the volumetric flask containing the solution.  
-4. Click on the quartz cuvette (path length, 1 cm * 1 cm)) to take it to the instrument table.  
+4. Click on the quartz cuvette (path length, 1 cm x 1 cm)) to take it to the instrument table.  
 5. Click on the glass Pasteur pipette to collect about 3 mL of the experimental solution which will be transferred into the quartz cuvette.  
 6. Click on the pipette to draw the solution into it.  
 7. Click on the pipette to take it out of the volumetric flask.  
