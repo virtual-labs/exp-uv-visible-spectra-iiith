@@ -8,7 +8,9 @@ We know that the electronic transitions modify the charge distribution of the ab
 
 The solvent dependent spectral shifts that originate from the interaction between the chromophore and the entire set of surrounding solvent molecules and do not involve any chemical interactions or specific solvent-chromophore interactions are referred to as "general solvent effects". In such cases, the energy between the ground state and excited state is affected by the dipole interaction between the solvent and the chromophore which is function of the solvent refractive index and dielectric constant. Taking only the continuum dielectric properties (the dielectric constant and the refractive index) as a measure of the solvation energy, energy of absorption or λmax is found to be related to the solvent polarity function, ∆f. The polarity function can be calculated from:
 
-$$∆f = \frac{(D-1)}{(2D+1)} - \frac{(n^2 - 1)}{(2n^2 + 1)}$$
+$$ 
+∆f = \frac{(D-1)}{(2D+1)} - \frac{(n^2 - 1)}{(2n^2 + 1)}
+$$
 
 where D is the dielectric constant and n is the refractive index of the solvent. Here absorptions of coumarin138 have been studied in a number of polar and nonpolar solvents, namely cyclohexane, dioxane, acetonitrile, ethanol and ethylene glycol, to demonstrate the solvent effect.
 
